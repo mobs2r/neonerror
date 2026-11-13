@@ -6,5 +6,12 @@
     "comic",
     "cartoon"
   ],
-  "ignore": []
+  "ignore": [
+    ".git/*",
+    ".github/*",
+    ".gitignore",
+    ".glualint.json",
+    "*.md",
+    "LICENSE"
+  ]
 }
